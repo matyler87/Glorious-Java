@@ -7,8 +7,9 @@ public class example01
   public static void main(String args[])
 	{
 		Scanner myScanner = new Scanner(System.in);
-		
-		System.out.println(myScanner.nextLine());
+		System.out.println("Enter data");
+		String s myScanner.nextLine();
+		System.out.println(s);
 	}
 	
 }
